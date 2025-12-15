@@ -16,3 +16,9 @@ vehicle characteristics, and geographic distribution across Washington State.
 - Pandas
 - Matplotlib / Seaborn
 - Jupyter Notebook
+
+## Dataset Source
+
+The dataset was obtained from a publicly available source related to electric vehicle
+registrations in Washington State. The original source is believed to be maintained by
+the Washington State Department of Licensing (DOL).
